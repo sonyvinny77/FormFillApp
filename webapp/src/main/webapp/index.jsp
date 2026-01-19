@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps/Cloud Student Registration Form!!</h1>
+    <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
     <p>Please fill in this form for registration of student!!</p>
     <hr>
     <br>  
@@ -22,7 +22,7 @@
     <br>
 
     <label for="aadharnumber"><b>Aadhar</b></label>
-    <input type="number" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+    <input type="text" placeholder="Enter AadharNumber" name="aadhar" id="aadhar" required>
     <br>
 
 
